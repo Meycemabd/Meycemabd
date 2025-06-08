@@ -11,7 +11,7 @@
 
 ## 🧠 Current Focus
 
-🧪 **Fullstack + QA Intern @ ITGate**  
+🧪 ** QA Intern @ ITGate**  
 - Automating web application tests using **Java**, **Selenium WebDriver**, **JUnit**  
 - Writing manual test cases, bug reports, and managing test plans in **Jira + Xray**  
 - Testing key features like **Login**, **Search**, and **Shopping Cart**
