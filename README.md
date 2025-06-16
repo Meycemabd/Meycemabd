@@ -3,7 +3,7 @@
 🚀 Junior Web Developer with a strong focus on **QA Engineering**, passionate about building robust web applications and ensuring they are well-tested, fast, and user-friendly.
 
 🎓 Certified *Application Developer (IHK, 06/2024)* with practical experience in **React**, **Java**, **Selenium**, and REST APIs.  
-💼 Based in Berlin · Open to Junior Dev / QA roles (Frontend, Fullstack, or Test Automation)
+💼 Based in Berlin · Open to Junior Dev
 
 🌍 Languages: German 🇩🇪 | French 🇫🇷 | Arabic 🇹🇳 | English (B2)
 
