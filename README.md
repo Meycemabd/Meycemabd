@@ -29,10 +29,6 @@
 → React + Redux based frontend with Firebase Auth and Fake Checkout  
 → Styled like H&M/Zara with a clean mobile-first layout  
 
-🔐 **Auth + Dashboard**  
-→ Full login flow with loading screen, Redux state, and protected routes  
-→ Preparing Stripe integration for payment simulation  
-
 ---
 
 ## 🧰 Skills & Tools
@@ -41,10 +37,10 @@
 `Java` `JavaScript` `React.js` `HTML5` `CSS3` `SQL`
 
 **QA & Testing**  
-`Selenium` `JUnit` `Postman` `Xray` `Manual Testing`
+`Selenium` `JUnit`  `Xray` `Manual Testing`
 
 **Dev Tools & Workflow**  
-`Git & GitHub` `Jira` `VS Code` `Firebase` `Docker Basics`
+`Git & GitHub` `Jira` `VS Code`  `Docker Basics`
 
 **Approaches & Methods**  
 `Agile / Scrum` `API Testing` `CI/CD Basics` `Test Automation`
