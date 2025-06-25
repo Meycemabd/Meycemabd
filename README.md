@@ -47,13 +47,6 @@
 
 ---
 
-
-## ⚡ Fun Fact
-
-If I’m not debugging a component or test case, I’m probably coaching youth football ⚽ or learning padel 🎾 with friends.
-
----
-
 ## 🌐 Socials
 
 [LinkedIn](https://linkedin.com/in/meycemelabed)  
